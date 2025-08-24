@@ -1,0 +1,72 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #0b0c10;
+  color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  padding: 3rem 1rem 1rem;
+  background-color: #1f1f2e;
+}
+
+.frase {
+  font-style: italic;
+  color: #a6d1e6;
+}
+
+main {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+textarea {
+  width: 100%;
+  height: 120px;
+  padding: 1rem;
+  border: none;
+  border-radius: 8px;
+  resize: none;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 0.8rem 1.2rem;
+  background-color: #5f67ea;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3f46d6;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  background-color: #1f1f2e;
+  color: #ccc;
+  font-size: 0.9rem;
+}
+
+.mensaje-telar {
+  background: rgba(0, 0, 0, 0.7);
+  color: #ffffff;
+  border: 2px solid #7df9ff;
+  border-radius: 15px;
+  padding: 25px;
+  margin: 40px auto;
+  max-width: 800px;
+  font-family: 'Courier New', monospace;
+  box-shadow: 0 0 20px #7df9ff;
+  text-align: center;
+}
